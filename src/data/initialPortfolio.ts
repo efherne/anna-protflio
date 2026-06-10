@@ -5,7 +5,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   // Providing an extremely stable, high-resolution, professional academic headshot URL directly from Unsplash 
   // as the primary default so it never breaks on any web host. You can easily switch this to "/images/sample-profile.jpg.HEIC"
   photoUrl: "/images/Anna.jpg",
-  bio: "Driven computer science and applied mathematics student focused on algorithmic optimization, full-stack software development, and artificial intelligence. Dedicated to advancing robust technological platforms, participating in competitive informatics, and driving meaningful initiatives in school clubs and the wider community.",
+  bio: "Driven engineering and physical sciences student proficient in advanced calculus, computational programming, and multi-branch physics. Solidly trained in AP Calculus BC, Pre-Calculus, AP Computer Science A, and AP Computer Science Principles alongside upper-level high school physics and chemistry curricula. Focused on applying rigorous mathematical analysis, circuit theory, mechanical dynamics, and computational logic to solve quantitative technical problems. Committed to strengthening analytical problem-solving skills and exploring practical applications within STEM fields..",
   gradeLevel: "High School Senior • Class of 2026",
   school: "Maple leaf ShenZhen",
   gpa: "4.00 UW / 4.85 W",
