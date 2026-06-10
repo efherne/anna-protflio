@@ -30,9 +30,10 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   distinctions: [
     {
       id: "d1",
-      title: "National Merit Finalist",
-      year: "2025",
-      description: "Scored in the top 0.5% of test-takers nationwide on the PSAT/NMSQT, demonstrating exceptional quantitative and critical reading readiness."
+      title: "Physics Bowl National Honor",
+      year: "2026",
+      description: "Earned National Honor standing in the Physics Bowl competition, demonstrating strong proficiency in high school physics knowledge and competitive problem-solving."
+  },"
     },
     {
       id: "d2",
