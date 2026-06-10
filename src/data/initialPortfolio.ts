@@ -4,7 +4,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   name: "Anna Ye",
   // Providing an extremely stable, high-resolution, professional academic headshot URL directly from Unsplash 
   // as the primary default so it never breaks on any web host. You can easily switch this to "/images/sample-profile.jpg.HEIC"
-  photoUrl: "/images/sample-profile.jpg",
+  photoUrl: "/images/Anna.jpg",
   bio: "Driven computer science and applied mathematics student focused on algorithmic optimization, full-stack software development, and artificial intelligence. Dedicated to advancing robust technological platforms, participating in competitive informatics, and driving meaningful initiatives in school clubs and the wider community.",
   gradeLevel: "High School Senior • Class of 2026",
   school: "Maple leaf ShenZhen",
