@@ -15,16 +15,16 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
     contactText: "Contact"
   },
 
-  gpaDetails: "Consistently maintained a 4.00 Unweighted GPA across the most rigorous STEM-focused curriculum available, including advanced collegiate mathematics and core computational logic.",
+  gpaDetails: "Consistently sustained an average score of 90 out of a full 100 scale throughout demanding technical coursework covering mathematics, physics, computer science and chemistry within the Maple Leaf World School program.",
   
   courses: [
-    { id: "c1", name: "AP Computer Science A", category: "AP", grade: "5" },
-    { id: "c2", name: "AP Calculus BC", category: "AP", grade: "5" },
-    { id: "c3", name: "AP Physics C: Mechanics", category: "AP", grade: "5" },
-    { id: "c4", name: "AP Statistics", category: "AP", grade: "5" },
-    { id: "c5", name: "Multivariable Calculus & Linear Algebra", category: "Advanced", grade: "A+" },
-    { id: "c6", name: "Data Structures & Algorithms", category: "Honors", grade: "A+" },
-    { id: "c7", name: "Artificial Intelligence Systems", category: "Honors", grade: "A+" }
+    { id: "c1", name: "AP Computer Science A", category: "AP", grade: "Not yet released" },
+    { id: "c2", name: "AP Calculus BC", category: "AP", grade: "Not yet released" },
+    { id: "c3", name: "AP Physics C: Mechanics", category: "AP", grade: "Not yet released" },
+    { id: "c4", name: "AP physics C E&M", category: "AP", grade: "Not yet released" },
+    { id: "c5", name: "AP Computer Science principles", category: "AP", grade: "Not yet released" },
+    { id: "c6", name: "Chemistry 12", category: "Maple Leaf World School curriculum", grade: "94/100" },
+    { id: "c7", name: "Calculus 12", category: "Maple Leaf World School curriculum", grade: "97/100" }
   ],
 
   distinctions: [
