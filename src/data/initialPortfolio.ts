@@ -6,10 +6,10 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   // as the primary default so it never breaks on any web host. You can easily switch this to "/images/sample-profile.jpg.HEIC"
   photoUrl: "/images/Anna.jpg",
   bio: "Driven engineering and physical sciences student proficient in advanced calculus, computational programming, and multi-branch physics. Solidly trained in AP Calculus BC, Pre-Calculus, AP Computer Science A, and AP Computer Science Principles alongside upper-level high school physics and chemistry curricula. Focused on applying rigorous mathematical analysis, circuit theory, mechanical dynamics, and computational logic to solve quantitative technical problems. Committed to strengthening analytical problem-solving skills and exploring practical applications within STEM fields..",
-  gradeLevel: "High School Senior • Class of 2026",
+  gradeLevel: "Grade 11",
   school: "Maple leaf ShenZhen",
-  gpa: "4.00 UW / 4.85 W",
-  major: "Computer Science & Artificial Intelligence",
+  gpa: "91/100",
+  major: "Electrical Engineering(EE)&physics",
   heroButtons: {
     resumeText: "Download Resume",
     contactText: "Contact"
