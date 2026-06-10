@@ -5,7 +5,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   // Providing an extremely stable, high-resolution, professional academic headshot URL directly from Unsplash 
   // as the primary default so it never breaks on any web host. You can easily switch this to "/images/sample-profile.jpg.HEIC"
   photoUrl: "/images/Anna.jpg",
-  bio: "Driven engineering and physical sciences student proficient in advanced calculus, computational programming, and multi-branch physics. Solidly trained in AP Calculus BC, Pre-Calculus, AP Computer Science A, and AP Computer Science Principles alongside upper-level high school physics and chemistry curricula. Focused on applying rigorous mathematical analysis, circuit theory, mechanical dynamics, and computational logic to solve quantitative technical problems. Committed to strengthening analytical problem-solving skills and exploring practical applications within STEM fields..",
+  bio: "Driven Electrical Engineering-oriented student following Maple Leaf World School curriculum, grounded in rigorous quantitative and technical coursework. Completed AP Physics Mechanics, AP Physics E&M, Grade 11–12 Physics, Grade 10–12 Pre-Calculus, AP Calculus BC, AP Computer Science A, AP Computer Science Principles, and Grade 11–12 Chemistry. Skilled at leveraging calculus, electromagnetism, mechanical dynamics and programming logic to resolve complex quantitative problems. Devoted to consolidating theoretical knowledge and laying solid foundations for further advanced engineering study.",
   gradeLevel: "Grade 11",
   school: "Maple leaf ShenZhen",
   gpa: "91/100",
