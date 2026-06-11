@@ -92,30 +92,28 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   leadership: [
     {
       id: "lead1",
-      organization: "Computer Science & Coding Club",
-      role: "President",
-      period: "2024 - 2026",
+      organization: "School Science Fair",
+      role: "Team Captain",
+      period: "2023 - 2024",
       responsibilities: [
-        "Structured the overarching curriculum for 60+ active school club members, directly teaching core fundamentals in C++, Python, and algorithm analysis.",
-        "Organized mock competitive coding tournaments and coordinated peer-to-peer programming tutoring networks."
+        "Led a team investigating the power generation principles of solar panels for the physics science fair track.",
+        "Arranged experimental trials, gathered performance data, refined testing procedures, and compiled the project display and presentation slides"
       ],
       accomplishments: [
-        "Coached 18 underclassmen to successfully qualify for the USACO Silver and Gold divisions.",
-        "Secured a club innovation expansion grant directly from local educational foundations."
+        "Completed full end-to-end physics research prototype and formal competition submission centered on solar panel energy conversion."
       ]
     },
     {
       id: "lead2",
-      organization: "Varsity Mathematics Team",
+      organization: "School Science Fair",
       role: "Captain",
-      period: "2023 - 2026",
+      period: "2025 - 2026",
       responsibilities: [
-        "Led weekly complex theoretical problem-solving sessions focusing on combinatorics, number theory, and advanced geometry.",
-        "Managed regional transportation logistics and tournament entries for an active 15-member team."
+        "Oversee group research into chemical plasticization and the function of plasticizers for the chemistry science fair project.",
+        "Managed lab testing, sample contrast analysis, technical report drafting, and competition booth design for the chemistry entry"
       ],
       accomplishments: [
-        "Placed 1st Overall in the Regional State Mathematics League for two consecutive academic years.",
-        "Expanded overall female and underrepresented student participation within the club by 45%."
+        "Earned Gold Prize in the chemistry division for the plasticization mechanism research project at the 2026 school Science Fair.",
       ]
     }
   ],
@@ -123,17 +121,17 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   volunteer: [
     {
       id: "vol1",
-      organization: "CodeForYouth Outreach",
-      role: "Lead Instructor & Architect",
-      hours: 180,
-      impact: "Designed and delivered an accessible introductory Scratch and Python web syllabus for elementary and middle school students from disadvantaged districts. Cultivated early enthusiasm for software logic among 90+ local youths."
+      organization: "Not implemented yet",
+      role: "Not implemented yet",
+      hours:0 ,
+      impact: "Not implemented yet"
     },
     {
       id: "vol2",
-      organization: "Tech-Rescue Community Initiative",
-      role: "Open-Source Web Contributor",
-      hours: 120,
-      impact: "Created tailored responsive landing pages and donation portals for small resource-constrained local non-profit organizations, streamlining their digital outreach and directly facilitating regional fund drives."
+      organization: "Not implemented yet",
+      role: "Not implemented yet",
+      hours: 0,
+      impact: "Not implemented yet"
     }
   ],
 
