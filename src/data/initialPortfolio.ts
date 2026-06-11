@@ -37,40 +37,24 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
     },
     {
       id: "d2",
-      title: "USA Computing Olympiad (USACO) Platinum Division",
-      year: "2025",
-      description: "Achieved elite status in competitive informatics through advanced mastery of dynamic programming, graph theory, and highly optimized data structures."
+      title: "Euclid Mathematics Contest Participant",
+      year: "2026",
+      description: "Completed the University of Waterloo Euclid advanced mathematics exam"
     },
     {
       id: "d3",
-      title: "AIME Qualifier",
-      year: "2024 - 2025",
-      description: "Invited to the American Invitational Mathematics Examination based on outstanding scores in the top 2.5% of the AMC 12."
+      title: "Waterloo Grade 11 Mathematics Contest Participant",
+      year: "2026",
+      description: " geometric and combinatorial reasoning skills"
     }
   ],
 
   recognitions: [
-    { id: "r1", title: "Principal's List (All Semesters)", date: "2023 - 2026" },
-    { id: "r2", title: "AP Scholar with Distinction", date: "July 2025" },
-    { id: "r3", title: "National Honor Society High Honor Recognition", date: "Spring 2025" }
+    { id: "r1", title: "Academic Excellence Award", date: "2025 - 2026" },
+    { id: "r2", title: "APAcademic Excellence Award", date: "2025" }
   ],
 
-  certifications: [
-    {
-      id: "cert1",
-      name: "AWS Certified Solutions Architect – Associate",
-      issuer: "Amazon Web Services",
-      year: "2025",
-      link: "https://aws.amazon.com/certification/"
-    },
-    {
-      id: "cert2",
-      name: "Deep Learning Specialization",
-      issuer: "DeepLearning.AI / Coursera",
-      year: "2024",
-      link: "https://www.coursera.org/"
-    }
-  ],
+  
 
   researchProjects: [
     {
@@ -80,15 +64,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
       advisor: "Mentored by University CS Faculty",
       description: "Developed and benchmarked customized C++ graph partitioning algorithms designed to optimize data flow across distributed computing nodes. Reduced latency by 14.2% against standard baseline models. Documentation available in public GitHub repositories."
     },
-    {
-      id: "res2",
-      title: "Automated Computer Vision Models for Real-Time Accessibility Tracking",
-      role: "Lead Developer",
-      advisor: "Independent Engineering Capstone",
-      description: "Engineered a fast object-detection pipeline using optimized PyTorch and OpenCV architectures deployed on Edge edge devices to alert visually impaired individuals to fast-approaching dynamic obstacles."
-    }
-  ],
-
+    
   competitions: [
     {
       id: "comp1",
