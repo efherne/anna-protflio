@@ -51,7 +51,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
 
   recognitions: [
     { id: "r1", title: "Academic Excellence Award", date: "2025 - 2026" },
-    { id: "r2", title: "Academic Excellence Award", date: "2025" }
+    { id: "r2", title: "Science fair gold award ", date: "2025-2026" }
   ],
 
   
@@ -59,10 +59,10 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   researchProjects: [
     {
       id: "res1",
-      title: "Physics Bowl National Honor",
-      role: "Principal Student Researcher",
-      advisor: "Mentored by University CS Faculty",
-      description: "Developed and benchmarked customized C++ graph partitioning algorithms designed to optimize data flow across distributed computing nodes. Reduced latency by 14.2% against standard baseline models. Documentation available in public GitHub repositories."
+      title: "Fundamental Principles of Nuclear Magnetic Resonance (NMR)",
+      role: "Independent Student Researcher",
+      advisor: "High School Physics Instructor",
+      description: "Explored foundational NMR physical theory, analyzed spin precession and magnetic field interactions, and summarized core mechanisms behind NMR spectroscopy and imaging applications."
     },
     
   competitions: [
