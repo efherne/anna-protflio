@@ -51,7 +51,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
 
   recognitions: [
     { id: "r1", title: "Academic Excellence Award", date: "2025 - 2026" },
-    { id: "r2", title: "APAcademic Excellence Award", date: "2025" }
+    { id: "r2", title: "Academic Excellence Award", date: "2025" }
   ],
 
   
@@ -59,7 +59,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   researchProjects: [
     {
       id: "res1",
-      title: "OptiGraph: Scalable Heuristics for Large-Scale Network Topologies",
+      title: "Physics Bowl National Honor",
       role: "Principal Student Researcher",
       advisor: "Mentored by University CS Faculty",
       description: "Developed and benchmarked customized C++ graph partitioning algorithms designed to optimize data flow across distributed computing nodes. Reduced latency by 14.2% against standard baseline models. Documentation available in public GitHub repositories."
@@ -67,26 +67,25 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
     
   competitions: [
     {
-      id: "comp1",
-      name: "USA Computing Olympiad (USACO)",
-      year: "2025",
-      placement: "Platinum Division",
-      description: "Mastered complex state-space searches, interval trees, and highly optimized network flow algorithms under extremely constrained real-time competitive limits.",
-      link: "https://usaco.org"
+      id: "phy",
+      name: "Physics Bowl ",
+      year: "2026",
+      placement: "National Honor",
+      description: "Earned National Honor standing in the Physics Bowl competition, demonstrating strong proficiency in high school physics knowledge and competitive problem-solving."
     },
     {
-      id: "comp2",
-      name: "American Invitational Mathematics Examination (AIME)",
-      year: "2025",
-      placement: "Top Tier Performer",
-      description: "Qualified for and achieved high scores on the premier invitational testing sequence for high school quantitative problem solving."
+      id: "Math1",
+      name: "Euclid Mathematics Contest ",
+      year: "2026",
+      placement: "Participant",
+      description: "Completed the University of Waterloo Euclid advanced mathematics exam"
     },
     {
-      id: "comp3",
-      name: "International Collegiate Programming Contest (ICPC) High School Invitational",
-      year: "2024",
-      placement: "1st Place Team",
-      description: "Collaborated in a 3-member unit to swiftly implement error-free solutions for 11 distinct computational logic problems in under 4 hours."
+      id: "Math2",
+      name: "Waterloo Grade 11 Mathematics Contest ",
+      year: "2026",
+      placement: "Participant",
+      description: "geometric and combinatorial reasoning skills."
     }
   ],
 
