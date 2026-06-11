@@ -164,44 +164,40 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   projects: [
     {
       id: "proj1",
-      title: "DeepFlow: Distributed Machine Learning Visualizer",
-      category: "Full-Stack Development",
-      description: "An elegant, interactive single-page application built with React, TypeScript, and WebGL that provides live visual node-by-node feedback for deep learning backpropagation passes.",
-      link: "https://github.com/terryyao-edu/deepflow",
-      tags: ["React", "TypeScript", "Tailwind CSS", "WebGL"]
+      title: "Buck Converter Closed-Loop Controller PCB Design",
+      category: "Electrical Engineering",
+      description: "AnDesigned a regulated DC-DC step-down power supply PCB with PID feedback loop, simulated circuit stability in LTspice, fabricated and tested hardware performance under variable load conditions.", 
+      tags: ["LTspice", "PCB Layout", "PID Control", "Power Electronics"]
     },
     {
       id: "proj2",
-      title: "Secure-Vault: Local CLI Password & Token Manager",
+      title: "Embedded Sensor Data Logger",
       category: "Systems Engineering",
-      description: "A fast, highly secure local command-line client programmed natively in Go and C++ that utilizes strong AES-256 bit encryption and zero-knowledge storage protocols.",
-      link: "https://github.com/terryyao-edu/secure-vault",
-      tags: ["Go", "C++", "Cryptography", "CLI"]
+      description: "STM32 microcontroller project sampling temperature, voltage, and current sensors; logs time-series data to SD card with UART serial debugging, optimized low-power sleep modes for battery operation.",
+      tags: ["STM32", "C", "Sensors", "Low-Power Embedded"]
     }
   ],
 
   languages: [
     { id: "lang1", name: "Mandarin", proficiency: "Native" },
-    { id: "lang2", name: "English", proficiency: "Native / Bilingual" },
-    { id: "lang3", name: "Spanish", proficiency: "Professional Working Proficiency" }
+    { id: "lang2", name: "English", proficiency: "Bilingual"} 
   ],
 
   skills: [
-    { id: "sk1", name: "C++ & Advanced Algorithms", category: "Core Technical" },
-    { id: "sk2", name: "Python / PyTorch", category: "Core Technical" },
-    { id: "sk3", name: "React & TypeScript", category: "Core Technical" },
+    { id: "sk1", name: "Java & Advanced Algorithms", category: "Core Technical" },
+    { id: "sk2", name: "Python ", category: "Core Technical" },
+    { id: "sk3", name: "TypeScript", category: "Core Technical" },
     { id: "sk4", name: "Go & Systems Programming", category: "Core Technical" },
     { id: "sk5", name: "Git, Docker & AWS", category: "Infrastructure" },
-    { id: "sk6", name: "LaTeX & Mathematical Typesetting", category: "Academic" }
+    { id: "sk6", name: "Mathematical Typesetting", category: "Academic" }
   ],
 
   creativeWork: [
     {
       id: "cw1",
-      title: "Algorithmic Symphonies - Generative Audio",
-      type: "Creative Audio Coding",
-      description: "An experimental procedural soundscape generator built with custom Python audio scripts that map prime integer sequences to complex harmonic waveforms.",
-      link: "https://github.com/terryyao-edu"
+      title: "Calculus Lyric & Educational Song Writing",
+      type: "STEM Creative Writing",
+      description: "Wrote original lyric tracks that explain calculus BC concepts including integrals, series, and parametric motion, paired with self-produced backing instrumentals."
     }
   ],
 
@@ -210,14 +206,13 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
       id: "pub1",
       title: "Optimizing State-Space Explorations in Highly Constrained Search Trees",
       journal: "High School Journal of Computational Mathematics",
-      date: "Fall 2025",
-      link: "https://example.com/publication"
+      date: "Fall 2025"
     }
   ],
 
   testScores: [
-    { id: "ts1", testName: "SAT", score: "1590", date: "August 2024", details: "800 Math • 790 Evidence-Based Reading & Writing" },
-    { id: "ts2", testName: "ACT", score: "36", date: "April 2025", details: "36 English • 36 Math • 36 Reading • 36 Science" }
+    { id: "ts1", testName: "IELTS", score: "Not yet released ", date: "Not yet released", details: "Not yet released" },
+    { id: "ts2", testName: "AP", score: "Not yet released", date: "July 2026", details: "Not yet released" }
   ],
 
   careerGoals: "Aiming to pioneer highly optimized, scalable algorithmic frameworks and scalable systems architectures that bridge the gap between heavy theoretical computer science and highly functional real-world artificial intelligence. Ultimately aspiring to lead forward-thinking software engineering initiatives or academic laboratories, producing mission-critical applications that elevate human potential.",
