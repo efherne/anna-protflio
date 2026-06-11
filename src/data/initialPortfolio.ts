@@ -78,7 +78,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
       name: "Euclid Mathematics Contest ",
       year: "2026",
       placement: "Participant",
-      description: "Completed the University of Waterloo Euclid advanced mathematics exam"
+      description: "Completed the University of Waterloo Euclid advanced mathematics exam."
     },
     {
       id: "Math2",
